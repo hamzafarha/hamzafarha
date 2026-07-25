@@ -112,8 +112,6 @@ Optimized tree-based RL training, cutting training time by **15–25%**.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzafarha&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamzafarha&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzafarha&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
