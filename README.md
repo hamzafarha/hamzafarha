@@ -1,141 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=200&section=header&text=Hi,%20I'm%20Hamza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=190&section=header&text=Hamza%20Farhani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineering%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=60&descSize=17" width="100%" alt="Hamza Farhani — Data Science and AI Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=PyTorch+%7C+LangGraph+%7C+RAG+%7C+MLOps;Building+the+AI+Intelligence+Layer+of+QoSentry;Currently%3A+AI+Recruitment+Pipelines+%40+3S+Spring;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<p>
+  <a href="https://github.com/hamzafarha"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+  <a href="https://www.linkedin.com/in/hamzafarhani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:hamza.farhani@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<a href="https://github.com/hamzafarha">
-  <img src="https://komarev.com/ghpvc/?username=hamzafarha&label=Profile+Views&color=58A6FF&style=flat" />
-</a>
-<a href="https://github.com/hamzafarha?tab=followers">
-  <img src="https://img.shields.io/github/followers/hamzafarha?label=Followers&style=flat&color=58A6FF" />
-</a>
+**I build practical AI systems — from machine learning pipelines to LLM-powered applications.**
 
 </div>
 
-<br>
+## 👋 About Me
 
-## 🧭 About Me
+I'm a **Data Science Engineering student at [ESPRIT](https://www.esprit.tn/), Tunisia**, interested in turning data and AI research into useful, reliable software.
 
-- 🎓 4th-year **Data Science Engineering** student at **ESPRIT School of Engineering**, Tunis (2022–2027)
-- 🧠 Own the AI Intelligence Layer of **QoSentry**, a 6-layer microservices platform for network supervision — 6-person team, ~900K labeled telemetry records
-- 💼 Interning at **3S Spring**, building a recruiter-side AI hiring pipeline (LLM orchestration + semantic matching)
-- 📜 NVIDIA-certified in **Deep Learning** and **Anomaly Detection**
-- 🌱 Working my way through classical ML → AI agents → cloud infra on a self-built ~290-hour learning roadmap
-- 🌍 Based in Tunisia · working fluently in French 🇫🇷 and English 🇬🇧
-- ⚡ Fun fact: I reimplemented *Show, Attend and Tell* (Xu et al., 2015) from scratch in PyTorch and matched the paper's BLEU-4 score
+My focus spans the end-to-end AI lifecycle: data preparation, model training and evaluation, retrieval-augmented generation (RAG), agent workflows, APIs, testing, and deployment. I enjoy projects where solid ML foundations meet real software engineering.
 
-<br>
-
-## 🛠️ Tech Stack
-
-**AI / Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-4B8BBE?style=for-the-badge)
-
-**LLMs / GenAI / RAG**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-FFB000?style=for-the-badge)
-
-**Backend & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Data, Infra & Observability**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Networking / Systems**
-
-![Mininet](https://img.shields.io/badge/Mininet-333333?style=for-the-badge)
-![Ryu SDN](https://img.shields.io/badge/Ryu%20SDN-333333?style=for-the-badge)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
-<br>
+- 🤖 **AI & GenAI:** LLM applications, RAG, tool-using agents, semantic search, and model fine-tuning
+- 📊 **Machine Learning:** feature engineering, model evaluation, forecasting, classification, and explainability
+- ⚙️ **MLOps & deployment:** reproducible pipelines, Docker, APIs, CI/CD, experiment tracking, and testing
+- 🎓 **Currently exploring:** agentic systems, evaluation, and production-minded AI engineering
+- 🌍 Based in Tunisia · French and English
 
 ## 🚀 Featured Projects
 
-### 🔷 QoSentry — AI-Powered Network Supervision Platform
-6-layer microservices platform for real-time network SLA monitoring, built with a 6-person team. I own the **AI Intelligence Layer**: PyTorch models for SLA-breach prediction (**>90% accuracy**) and anomaly detection, a **LangGraph + Qdrant** RAG service for automated incident reporting, and **SHAP** explainability on top of it all.
+### 1. AI Recruitment Automation
+[**Repository →**](https://github.com/hamzafarha/ai-recruitment-automation)
 
-`PyTorch` `LangGraph` `Qdrant` `FastAPI` `Docker` `Redis` `PostgreSQL` `Spring Boot` `Prometheus` `Grafana` `Mininet` `Ryu SDN`
+An AI-assisted recruitment workflow that processes CVs, extracts structured candidate profiles, retrieves evidence for job requirements, and generates evidence-backed screening reports. Human recruiters retain responsibility for the final decision.
 
----
+**Highlights**
+- LangGraph screening workflow and retrieval-augmented generation over CV evidence and HR rules
+- QLoRA fine-tuning workflow for Qwen models, document parsing, OCR, embeddings, and reranking
+- FastAPI, React, PostgreSQL, Qdrant, MLflow, and Docker-based services
 
-### 🔷 AI Recruitment Pipeline — 3S Spring Internship
-Recruiter-side pipeline combining LLM orchestration, semantic matching, CV parsing, and structured interview question generation. Node graph: `CV Parser → Question Selector → Interview Conductor → Evaluator → Report Generator`, orchestrated in LangGraph with Sentence-BERT semantic matching.
+`Python` `Transformers` `QLoRA` `LangGraph` `RAG` `Qdrant` `FastAPI` `PostgreSQL` `React` `MLflow`
 
-`LangGraph` `Sentence-BERT` `Qdrant` `Ollama` `Groq · LLaMA 3 70B` `Gemini 2.5 Flash`
+### 2. QoSentry — AI Intelligence for Network Supervision
+**Team project · AI Intelligence Layer**
 
----
+A network-supervision platform where the AI layer supports SLA-breach prediction, anomaly detection, incident investigation, and explainability. The project combines predictive ML with retrieval-augmented generation to help turn network telemetry into actionable operational insights.
 
-### 🔷 Show, Attend and Tell — Image Captioning (Paper Reimplementation)
-From-scratch PyTorch reimplementation of Xu et al. (2015)'s visual attention captioning model — matched the paper's **BLEU-4** score.
+**Highlights**
+- Predictive models for SLA-breach risk and anomaly detection
+- LangGraph + Qdrant RAG workflow for incident-oriented knowledge retrieval and reporting
+- SHAP-based model explainability within a broader microservices platform
 
-`PyTorch` `Computer Vision` `Attention Mechanisms`
+`PyTorch` `Anomaly Detection` `Time-Series / Telemetry` `LangGraph` `Qdrant` `FastAPI` `SHAP` `Docker`
 
----
+*Public repository/demo link can be added when available.*
 
-### 🔷 Medical Cost Prediction
-Regression pipeline achieving an **18% MAE reduction** with an **F1 score of 0.87**.
+### 3. CallVerse — E-commerce Customer-Service Digital Twin
+[**Repository →**](https://github.com/hamzafarha/CallVerse)
 
-`Scikit-learn` `Feature Engineering`
+A simulation and optimization platform for an e-commerce customer-contact center. It connects demand forecasting, discrete-event simulation, agent policies, evaluation, and an interactive operations dashboard.
 
----
+**Highlights**
+- SimPy-based simulation of customer contacts, queues, resources, and scenarios
+- Advisor copilot with RAG/tools, quality review, and reinforcement-learning workforce policies
+- Local-first design with no mandatory external LLM API
 
-### 🔷 Reinforcement Learning Trees
-Optimized tree-based RL training, cutting training time by **15–25%**.
+`Python` `Forecasting` `SimPy` `Agentic AI` `RAG` `Reinforcement Learning` `FastAPI` `Streamlit`
 
-`Reinforcement Learning` `Decision Trees`
+### 4. FleetIQ — Smart Taxi Arrival-Time Estimation
+[**Repository →**](https://github.com/hamzafarha/FleetIQ)
 
-<br>
+A production-oriented ETA prediction project for a taxi dispatch context. The current prototype uses public NYC taxi data while keeping the pipeline adaptable to future company data.
 
-## 📊 GitHub Stats
+**Highlights**
+- Data audit and cleaning workflow with explicit data contracts
+- Planned time-aware validation and benchmarking of tabular ML models
+- FastAPI inference service and real-time ride-stream simulation
 
-<div align="center">
+`Python` `Pandas` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `FastAPI` `Docker`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzafarha&theme=tokyonight&hide_border=true" />
+### 5. Housing Price Prediction — End-to-End ML
+[**Repository →**](https://github.com/hamzafarha/Housing-Price-Prediction)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzafarha&theme=tokyo-night&hide_border=true" width="90%"/>
+An end-to-end housing-price regression system with modular feature, training, evaluation, inference, and batch pipelines, plus an API and interactive dashboard.
 
-</div>
+**Highlights**
+- XGBoost training and Optuna hyperparameter tuning with MLflow tracking
+- FastAPI prediction service and Streamlit dashboard
+- Docker containers, GitHub Actions CI/CD, and AWS S3, ECR, and ECS deployment configuration
+- Time-based data splits and safeguards against data leakage
 
-<br>
+`Python` `XGBoost` `Scikit-learn` `Optuna` `MLflow` `FastAPI` `Streamlit` `Docker` `AWS`
+
+### 6. Show, Attend and Tell — Image Captioning
+[**Repository →**](https://github.com/hamzafarha/show-attend-tell-implementation)
+
+A PyTorch implementation of the *Show, Attend and Tell* image-captioning paper, exploring visual attention and the relationship between computer vision and language generation.
+
+`PyTorch` `Deep Learning` `Computer Vision` `Attention`
+
+### 7. Breast-Cancer Classification with Transformers & XAI
+[**Repository →**](https://github.com/hamzafarha/breast-cancer-transformers-xai)
+
+A deep-learning project exploring breast-ultrasound image classification with Vision Transformers, Swin Transformers, and explainable-AI methods on the BUSI dataset.
+
+`PyTorch` `Vision Transformers` `Swin Transformer` `Computer Vision` `Explainable AI`
+
+## 🧰 Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages & data** | Python, SQL, Pandas, NumPy |
+| **Machine learning** | Scikit-learn, XGBoost, LightGBM, CatBoost, Optuna |
+| **Deep learning** | PyTorch, Transformers, computer vision, attention mechanisms |
+| **LLMs & retrieval** | LangGraph, RAG, Qdrant, Sentence Transformers, reranking, QLoRA, Ollama |
+| **Backend & apps** | FastAPI, Streamlit, REST APIs |
+| **Data stores** | PostgreSQL, Redis |
+| **MLOps & engineering** | MLflow, Docker, GitHub Actions, pytest, CI/CD |
+| **Cloud & observability** | AWS (S3, ECR, ECS), Prometheus, Grafana |
+
+## 🧪 How I Approach AI Projects
+
+- **Data first:** inspect data quality, define schemas, and prevent leakage.
+- **Measure performance:** use suitable baselines, validation strategies, and task-specific metrics.
+- **Build for reuse:** keep data, training, evaluation, and inference code modular.
+- **Make outputs explainable:** ground LLM responses in evidence and use explainability tools where appropriate.
+- **Engineer for delivery:** test components, containerize services, document setup, and automate checks.
 
 ## 🎓 Certifications
 
-![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![NVIDIA Anomaly Detection](https://img.shields.io/badge/NVIDIA-Anomaly%20Detection-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- NVIDIA — Deep Learning
+- NVIDIA — Anomaly Detection
 
-<br>
+*Add the official credential links here when available.*
 
-## 💬 Ask Me About
+## 🤝 Let's Connect
 
-RAG pipelines · LangGraph orchestration · network AI / SLA prediction · recruitment AI · SHAP explainability
+I'm interested in **AI / Data Science internships, end-to-end ML projects, LLM applications, and AI engineering opportunities**.
 
-<br>
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzafarhani)
+- 🐙 [GitHub repositories](https://github.com/hamzafarha?tab=repositories)
+- ✉️ [Email](mailto:hamza.farhani@esprit.tn)
 
 <div align="center">
 
-<a href="https://github.com/hamzafarha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/hamzafarhani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:hamza.farhani@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!-- Once your link-hub page is live, uncomment and set its URL -->
-<!-- <a href="YOUR_LINKHUB_URL"><img src="https://img.shields.io/badge/All%20Links-38BDF8?style=for-the-badge&logo=linktree&logoColor=white"></a> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=100&section=footer" width="100%" alt=""/>
 
 </div>
