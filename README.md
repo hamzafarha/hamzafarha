@@ -47,6 +47,7 @@ Human recruiters retain responsibility for the final decision.
 
 ### 2. QoSentry — AI Intelligence for Network Supervision
 **Team project · AI Intelligence Layer**
+[**Repository →**](https://github.com/Predigo-DS/Esprit-PI-4DS9-2526-QoSentry.git)
 
 A network-supervision platform where the AI layer supports SLA-breach prediction, anomaly detection, incident investigation, and explainability. 
 The project combines predictive ML with retrieval-augmented generation to help turn network telemetry into actionable operational insights.
@@ -57,8 +58,6 @@ The project combines predictive ML with retrieval-augmented generation to help t
 - SHAP-based model explainability within a broader microservices platform
 
 `PyTorch` `Anomaly Detection` `Time-Series / Telemetry` `LangGraph` `Qdrant` `FastAPI` `SHAP` `Docker`
-
-*Public repository/demo link can be added when available.*
 
 ### 3. CallVerse — E-commerce Customer-Service Digital Twin
 [**Repository →**](https://github.com/hamzafarha/CallVerse)
