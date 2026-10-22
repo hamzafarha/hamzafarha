@@ -22,7 +22,7 @@
 
 I'm a **Data Science Engineering student at [ESPRIT](https://www.esprit.tn/), Tunisia**, interested in turning data and AI research into useful, reliable software.
 
-My focus spans the end-to-end AI lifecycle: data preparation, model training and evaluation, retrieval-augmented generation (RAG), agent workflows, APIs, testing, and deployment. I enjoy projects where solid ML foundations meet real software engineering.
+My focus spans the end-to-end AI lifecycle: data preparation, model training and evaluation, retrieval-augmented generation (RAG), Fine Tuning, agent workflows, APIs, testing, and deployment. I enjoy projects where solid ML foundations meet real software engineering.
 
 - 🤖 **AI & GenAI:** LLM applications, RAG, tool-using agents, semantic search, and model fine-tuning
 - 📊 **Machine Learning:** feature engineering, model evaluation, forecasting, classification, and explainability
