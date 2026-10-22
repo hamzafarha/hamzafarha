@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=200&section=header&text=Hi,%20I'm%20Hamza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=PyTorch+%7C+LangGraph+%7C+RAG+%7C+MLOps;Building+the+AI+Intelligence+Layer+of+QoSentry;Currently%3A+AI+Recruitment+Pipelines+%40+3S+Spring;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=PyTorch+%7C+LangGraph+%7C+RAG+%7C+MLOps;Building+the+AI+Intelligence+Layer+of+QoSentry;Currently%3A+AI+Recruitment+Pipelines+%40;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
 <a href="https://github.com/hamzafarha">
 
