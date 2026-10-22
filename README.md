@@ -47,6 +47,8 @@ Human recruiters retain responsibility for the final decision.
 
 ### 2. QoSentry — AI Intelligence for Network Supervision
 **Team project · AI Intelligence Layer**
+
+
 [**Repository →**](https://github.com/Predigo-DS/Esprit-PI-4DS9-2526-QoSentry.git)
 
 A network-supervision platform where the AI layer supports SLA-breach prediction, anomaly detection, incident investigation, and explainability. 
