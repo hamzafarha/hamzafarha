@@ -47,7 +47,8 @@ An AI-assisted recruitment workflow that processes CVs, extracts structured cand
 ### 2. QoSentry — AI Intelligence for Network Supervision
 **Team project · AI Intelligence Layer**
 
-A network-supervision platform where the AI layer supports SLA-breach prediction, anomaly detection, incident investigation, and explainability. The project combines predictive ML with retrieval-augmented generation to help turn network telemetry into actionable operational insights.
+A network-supervision platform where the AI layer supports SLA-breach prediction, anomaly detection, incident investigation, and explainability. 
+The project combines predictive ML with retrieval-augmented generation to help turn network telemetry into actionable operational insights.
 
 **Highlights**
 - Predictive models for SLA-breach risk and anomaly detection
