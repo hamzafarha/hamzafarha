@@ -137,8 +137,7 @@ A deep-learning project exploring breast-ultrasound image classification with Vi
 
 - NVIDIA — Deep Learning
 - NVIDIA — Anomaly Detection
-
-*Add the official credential links here when available.*
+- NVIDIA — Transformer-Based Natural Language Processing Applications
 
 ## 🤝 Let's Connect
 
