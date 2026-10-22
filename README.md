@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=190&section=header&text=Hamza%20Farhani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineering%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=60&descSize=17" width="100%" alt="Hamza Farhani — Data Science and AI Engineering"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzafarha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafarha&layout=compact&theme=tokyonight&hide_border=true" />
 
 <p>
   <a href="https://github.com/hamzafarha"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
