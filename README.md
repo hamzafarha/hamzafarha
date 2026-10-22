@@ -35,7 +35,8 @@ My focus spans the end-to-end AI lifecycle: data preparation, model training and
 ### 1. AI Recruitment Automation
 [**Repository →**](https://github.com/hamzafarha/ai-recruitment-automation)
 
-An AI-assisted recruitment workflow that processes CVs, extracts structured candidate profiles, retrieves evidence for job requirements, and generates evidence-backed screening reports. Human recruiters retain responsibility for the final decision.
+An AI-assisted recruitment workflow that processes CVs, extracts structured candidate profiles, retrieves evidence for job requirements, and generates evidence-backed screening reports. 
+Human recruiters retain responsibility for the final decision.
 
 **Highlights**
 - LangGraph screening workflow and retrieval-augmented generation over CV evidence and HR rules
