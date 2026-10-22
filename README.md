@@ -1,7 +1,12 @@
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzafarha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafarha&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=200&section=header&text=Hi,%20I'm%20Hamza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=PyTorch+%7C+LangGraph+%7C+RAG+%7C+MLOps;Building+the+AI+Intelligence+Layer+of+QoSentry;Currently%3A+AI+Recruitment+Pipelines+%40+3S+Spring;Always+shipping%2C+always+learning" alt="Typing SVG" />
+
+<a href="https://github.com/hamzafarha">
+
+
 
 <p>
   <a href="https://github.com/hamzafarha"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
@@ -141,6 +146,9 @@ I'm interested in **AI / Data Science internships, end-to-end ML projects, LLM a
 - ✉️ [Email](mailto:hamza.farhani@esprit.tn)
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzafarha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafarha&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=100&section=footer" width="100%" alt=""/>
 
